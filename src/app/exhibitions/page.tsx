@@ -22,13 +22,13 @@ export default function HowItWorks() {
       {/* Main Content */}
       <main className="flex-grow flex flex-col justify-center items-center px-8">
   <div className="max-w-screen-md w-full">
-    <div className="border-t border-gray-600 pt-4">
+   
       <h1 className="text-3xl font-bold my-6 text-center">
         <a href="mailto:i@nonterritorial.foundation"
         className="text-gray-800 hover:text-gray-400">PREVIEW INQUIRY</a>
       </h1>
-    </div>
-    <div className="border-t border-gray-600"></div>
+   
+    
   </div>
 </main>
 
