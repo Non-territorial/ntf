@@ -27,7 +27,6 @@ export default function HowItWorks() {
       <strong>Email:</strong>{" "}
       <a
         href="mailto:i@nonterritorial.foundation"
-        className="hover:text-black transition-colors duration-200"
       >
         i@nonterritorial.foundation
       </a>
