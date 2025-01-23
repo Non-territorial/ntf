@@ -27,6 +27,7 @@ export default function HowItWorks() {
       <strong>Email:</strong>{" "}
       <a
         href="mailto:i@nonterritorial.foundation"
+        className="text-gray-800 hover:text-gray-400"
       >
         i@nonterritorial.foundation
       </a>
@@ -35,7 +36,7 @@ export default function HowItWorks() {
       <strong>Phone:</strong>{" "}
       <a
         href="tel:+393515635054"
-        className="hover:text-black transition-colors duration-200"
+        className="text-gray-800 hover:text-gray-400"
       >
         +39 351 563 5054
       </a>
