@@ -1,0 +1,47 @@
+{
+   "circulation": {
+  "title": "Circulation",
+  "content": [
+    "This is a central concept of Nonterritorial, as it shifts the relevance of an artwork to the level of its circulation and not of its price, which is determined and established from a top-down perspective.",
+    "The more it circulates, the more its signal can reach a wider audience. There is a strong need to ontologically separate money and value, that is value and ownership, thus determining a different idea of relevance."
+  ]
+},
+    "hosting": {
+      "title": "Hosting",
+      "content": ["Anyone can host an exhibition in any place which makes sense. From a home kitchen to a car parking, to hotel room, to some remote village, a gym room.. Or a private bank reception hall, or unlimited other options….",
+"Active mode: Hosting a Nonterritorial exhibition. The host chooses an exhibition from the Collection Playlist, pays a license fee, and receives the exhibition materials and instructions. ",
+"Passive mode: Location only. The host submits a location only. The host provides just a space and doesn't participate in the setting up or promotion of the exhibition. "
+    ]
+    },
+    "location": {
+      "title": "Location",
+      "content": ["Nonterritorial can transform any location into an exhibition space without altering its inherent character. Whether it’s an apartment, bar, office, hotel lobby, nightclub, school, university, library, hospital, concert hall, garage, or construction site, the flexibility and simplicity of the setup allow for nearly limitless possibilities."
+    ]
+    },
+    "readyMadeExhibition": {
+      "title": "Ready-Made Exhibition",
+      "content": ["Ready-made means that any exhibition may be set up remotely. Through thorough instructions and the full package of materials especially created by Nonterritorial, hosts can easily set up the exhibition themselves, eliminating the need for heavy and expensive productions, while at the same time putting their full attention on highlighting the content."
+    ]
+    },
+    "cinematicPreview": {
+      "title": "Cinematic Preview",
+     "content": ["Cinematic Preview is a form of documentation for artworks presented as moving images, eliminating the need to physically relocate objects for exhibitions.",
+     "It serves as a tool for transmission, where the artwork acts as a signal, and the ‘Cinematic Preview’ functions as its transmitter. Once created, this moving image is sent to a specific location, where it transforms into a video installation.",
+     "Each piece of content adapts to the unique characteristics of the space it inhabits, displaying sequences that are never fixed or repetitive. ",
+     "The arrangement, timing, and interaction with the environment change based on various factors such as lighting, architectural layout, or even the presence of viewers. This unpredictability makes that each exhibition is a unique experience, where the artwork evolves with every presentation, making it impossible to predict exactly how or when certain elements will unfold."
+    ]
+    },
+    "sonicExhibition": {
+      "title": "Sonic Exhibition",
+      "content": ["The Sonic Exhibition is a space entirely dedicated to sound, the only protagonist. ",
+     "A space where sequences of sonic compositions invite the audience to access altered states of being, to reset one's listening habits, and to promote an inner silence, open and receptive. The intent is to transform any space into an environment where it is possible to immerse oneself in sound. ",
+     "Through Sonic Exhibitions, Nonterritorial introduces sonic works, sculptures, and installations collaborating with artists working on the frontiers of contemporary sound."
+    ]
+    },
+    "intangibleCollection": {
+      "title": "Intangible Collection",
+      "content": ["The Intangible Collection consists of non-physical works that can be presented in any type of setting, though the works themselves may have a physical origin. While the collection isn't composed of tangible objects, it can circulate almost endlessly, unrestricted by the limitations of material form."
+      ]
+    }
+  }
+  
