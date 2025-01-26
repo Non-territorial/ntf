@@ -5,9 +5,24 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex flex-col min-h-screen bg-black text-white">
+    <div className="relative flex flex-col min-h-screen bg-black text-white">
+      {/* Background Video */}
+      <video
+        className="absolute top-0 left-0 w-full h-full object-cover"
+        loop
+        autoPlay
+        muted
+        playsInline
+      >
+        <source src="/background-video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+
+      {/* Overlay to darken video */}
+      <div className="absolute top-0 left-0 w-full h-full bg-black/50"></div>
+
       {/* Navbar */}
-      <nav className="w-full bg-black py-4 border-gray-700 flex justify-center">
+      <nav className="relative w-full bg-black py-4 flex justify-center z-10">
         <Link href="/">
           <Image
             src="/logo.png"
@@ -20,49 +35,28 @@ export default function Home() {
       </nav>
 
       {/* Main Content */}
-      <main className="flex flex-col justify-center items-center flex-grow px-4">
-        <h1 className="text-gray-300 text-xl tracking-wide mb-8">
-          NONTERRITORIAL
-        </h1>
-
-        <ul className="w-full max-w-sm space-y-4 text-left">
-          <li className="border-t border-gray-600 pt-4">
-            <Link href="/concept" className="text-gray-400 hover:text-gray-200">
-              CONCEPT
-            </Link>
-          </li>
-          <li className="border-t border-gray-600 pt-4">
-            <Link
-              href="/how-it-works"
-              className="text-gray-400 hover:text-gray-200"
-            >
-              HOW IT WORKS
-            </Link>
-          </li>
-          <li className="border-t border-gray-600 pt-4">
-            <Link href="/exhibitions" className="text-gray-400 hover:text-gray-200">
-              EXHIBITIONS
-            </Link>
-          </li>
-          <li className="border-t border-gray-600 pt-4">
-            <Link
-              href="/participate"
-              className="text-gray-400 hover:text-gray-200"
-            >
-              PARTICIPATE
-            </Link>
-          </li>
-          <li className="border-t border-gray-600 pt-4">
-            <Link href="/keywords" className="text-gray-400 hover:text-gray-200">
-              KEYWORDS
-            </Link>
-          </li>
-          <li className="border-t border-gray-600 pt-4">
-            <Link href="/contact" className="text-gray-400 hover:text-gray-200">
-              CONTACT
-            </Link>
-          </li>
-        </ul>
+      <main className="relative flex flex-col justify-center items-center flex-grow z-10 px-4">
+        <h1 className="text-gray-300 text-3xl font-bold">NONTERRITORIAL</h1>
+        <p className="text-lg leading-relaxed mt-4 text-left"> To host an exhibition, submit an inquiry, pay the development and production license fee, 
+          and receive all the &apos;Ready-Made Exhibition&apos; materials and instructions.</p>
+        <p className="text-lg leading-relaxed mt-4">
+      <strong>Email:</strong>{" "}
+      <a
+        href="mailto:i@nonterritorial.foundation"
+        className="text-gray-200 hover:text-gray-500"
+      >
+        i@nonterritorial.foundation
+      </a>
+    </p>
+    <p className="text-lg leading-relaxed">
+      <strong>Phone:</strong>{" "}
+      <a
+        href="tel:+393515635054"
+        className="text-gray-200 hover:text-gray-500"
+      >
+        +39 351 563 5054
+      </a>
+    </p>
       </main>
     </div>
   );
