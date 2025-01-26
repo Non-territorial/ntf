@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nonterritorial Foundation",
-  description: "Private exhibitions generator",
+  title: "Nonterritorial",
+  description: "Private Exhibitions",
 };
 
 export default function RootLayout({
