@@ -36,28 +36,35 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="relative flex flex-col justify-center items-center flex-grow z-10 px-4">
-        <h1 className="text-gray-300 text-3xl font-bold">NONTERRITORIAL</h1>
-        <p className="text-lg leading-relaxed mt-4 text-left"> To host an exhibition, submit an inquiry, pay the development and production license fee, 
-          and receive all the &apos;Ready-Made Exhibition&apos; materials and instructions.</p>
-        <p className="text-lg leading-relaxed mt-4">
-      <strong>Email:</strong>{" "}
-      <a
-        href="mailto:i@nonterritorial.foundation"
-        className="text-gray-200 hover:text-gray-500"
-      >
-        i@nonterritorial.foundation
-      </a>
-    </p>
-    <p className="text-lg leading-relaxed">
-      <strong>Phone:</strong>{" "}
-      <a
-        href="tel:+393515635054"
-        className="text-gray-200 hover:text-gray-500"
-      >
-        +39 351 563 5054
-      </a>
-    </p>
-      </main>
+    <div className="flex flex-col items-center max-w-sm ml-8 mr-8 text-gray-400 text-left">
+      <h1 className="text-xl">NONTERRITORIAL</h1>
+      <h2 className="text-sm font-bold text-gray-500 mb-8">PRIVATE EXHIBITIONS</h2>
+      <p className="text-lg leading-relaxed mt-4 mb-8">
+        Nonterritorial introduces art projects whose nature and scale exceed the
+        limits normally available within the traditional museum or gallery. It is
+        about a combination and resonance between context, location, and artwork,
+        promoting a new idea of circulation of arts.
+      </p>
+      <p className="text-lg leading-relaxed mt-4"> 
+        <a
+          href="mailto:info@nonterritorial.net"
+          className="text-gray-400 hover:text-gray-800"
+        >
+          info@nonterritorial.net
+        </a>
+      </p>
+      <p className="text-lg leading-relaxed">
+        <a
+          href="tel:+393515635054"
+          className="text-gray-400 hover:text-gray-800"
+        >
+          +39 351 717 6405
+        </a>
+      </p>
+    </div>
+  </main>
+
+
     </div>
   );
 }
