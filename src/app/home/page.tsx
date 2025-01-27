@@ -55,7 +55,7 @@ export default function Home() {
       </p>
       <p className="text-lg leading-relaxed">
         <a
-          href="tel:+393515635054"
+          href="tel:+393517176405"
           className="text-gray-400 hover:text-gray-800"
         >
           +39 351 717 6405
