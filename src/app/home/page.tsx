@@ -37,7 +37,7 @@ export default function Home() {
       {/* Main Content */}
       <main className="relative flex flex-col justify-center items-center flex-grow z-10 px-4">
     <div className="flex flex-col items-center max-w-sm ml-8 mr-8 text-gray-400 text-left">
-      <h1 className="text-xl">NONTERRITORIAL</h1>
+      <h1 className="text-xl text-white">NONTERRITORIAL</h1>
       <h2 className="text-sm font-bold text-gray-500 mb-8">PRIVATE EXHIBITIONS</h2>
       <p className="text-lg leading-relaxed mt-4 mb-8">
         Nonterritorial introduces art projects whose nature and scale exceed the
@@ -48,7 +48,7 @@ export default function Home() {
       <p className="text-lg leading-relaxed mt-4"> 
         <a
           href="mailto:info@nonterritorial.net"
-          className="text-gray-400 hover:text-gray-800"
+          className="text-gray-400 hover:text-white"
         >
           info@nonterritorial.net
         </a>
@@ -56,7 +56,7 @@ export default function Home() {
       <p className="text-lg leading-relaxed">
         <a
           href="tel:+393517176405"
-          className="text-gray-400 hover:text-gray-800"
+          className="text-gray-400 hover:text-white"
         >
           +39 351 717 6405
         </a>
