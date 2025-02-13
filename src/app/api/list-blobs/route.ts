@@ -20,10 +20,11 @@ export async function GET() {
         uploadedAt: blob.uploadedAt,
       })),
     });
-  } catch (error: any) {
-    console.error("Error fetching blobs:", error);
+  } catch (error: unknown) {
+    const err = error instanceof Error ? error : new Error("Unknown error");
+    console.error("Error fetching blobs:", err);
 
-    if (error instanceof Error && error.name === "AbortError") {
+    if (err.name === "AbortError") {
       return Response.json(
         { success: false, error: "Request timed out. Try again." },
         { status: 408 }
