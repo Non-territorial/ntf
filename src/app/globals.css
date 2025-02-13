@@ -26,6 +26,7 @@
 body {
   color: var(--foreground);
   background: var(--background);
+  background-color: black;
   font-family: "Isocpeur", sans-serif; /* Updated font-family */
   margin: 0;
 }
@@ -43,4 +44,28 @@ h1, h2, h3, h4, h5, h6 {
 nav {
   background-color: #000;
   color: #fff;
+}
+
+mux-player {
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+}
+
+select {
+  appearance: none; /* Hides the native dropdown arrow */
+  -webkit-appearance: none; /* Safari compatibility */
+  -moz-appearance: none; /* Firefox compatibility */
+  background: none;
+}
+
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scroll::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 3px;
+}
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
 }
