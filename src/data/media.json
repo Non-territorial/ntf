@@ -36,7 +36,7 @@
       "id": "vid1",
       "type": "video",
       "src": "SGYAdY2mv1HtWx96EXF78EBw8jUEk01GJJ9aT023s3q02A",
-      "title": "...",
+
       "tags": [
         "work1",
         "video1"
@@ -57,20 +57,20 @@
     {
       "id": "img8",
       "type": "image",
-      "src": "https://bafybeihaoo7g7osiwk4qjz3caanhhoajqljinqsgsrxqktwswlqomebeqy.ipfs.dweb.link",
-      "title": "Work 1 Image 8"
+      "src": "https://bafybeihaoo7g7osiwk4qjz3caanhhoajqljinqsgsrxqktwswlqomebeqy.ipfs.dweb.link"
+      
     },
     {
       "id": "img10",
       "type": "image",
-      "src": "https://bafybeic6hsmhlxdmkturzsd3dkirbr4xv7iiam2mszk3plgubmqa5vdere.ipfs.dweb.link",
-      "title": "Work 1 Image 10"
+      "src": "https://bafybeic6hsmhlxdmkturzsd3dkirbr4xv7iiam2mszk3plgubmqa5vdere.ipfs.dweb.link"
+      
     },
     {
       "id": "img11",
       "type": "image",
-      "src": "https://bafybeidy3qivbrrnsd3acnenp5m566fwrvsaucbegjsnb5o3takpg5ktoe.ipfs.dweb.link",
-      "title": "Work 1 Image 10"
+      "src": "https://bafybeidy3qivbrrnsd3acnenp5m566fwrvsaucbegjsnb5o3takpg5ktoe.ipfs.dweb.link"
+      
     },
     {
       "id": "99",
