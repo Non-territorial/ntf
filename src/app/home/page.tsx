@@ -45,26 +45,41 @@ export default function Home() {
         about a combination and resonance between context, location, and artwork,
         promoting a new idea of circulation of arts.
       </p>
-      <p className="text-lg leading-relaxed mt-4"> 
-        <a
-          href="mailto:info@nonterritorial.net"
+      <p className="text-xl leading-relaxed mt-4"> 
+        <Link
+          href="/gallery"
           className="text-gray-400 hover:text-white"
         >
-          info@nonterritorial.net
-        </a>
+          EXHIBITIONS
+        </Link>
       </p>
-      <p className="text-lg leading-relaxed">
-        <a
-          href="tel:+393517176405"
-          className="text-gray-400 hover:text-white"
-        >
-          +39 351 717 6405
-        </a>
-      </p>
-    </div>
+ </div>
   </main>
+  <footer className="absolute bottom-0 w-full flex flex-col justify-center items-center text-center space-y-1 mb-10 z-50">
+  <p className="text-lg leading-relaxed"> 
+    <a
+      href="mailto:info@nonterritorial.net"
+      className="text-gray-400 hover:text-white"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      info@nonterritorial.net
+    </a>
+  </p>
+  <p className="text-lg leading-relaxed mb-8">
+    <a
+      href="tel:+393517176405"
+      className="text-gray-400 hover:text-white"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      +39 351 717 6405
+    </a>
+  </p>
+</footer>
 
 
     </div>
+    
   );
 }

@@ -16,7 +16,7 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve",
+    "jsx": "preserve", // Changed from "preserve" to "react-jsx"
     "baseUrl": ".",
     "paths": {
       "@/*": [
@@ -34,8 +34,9 @@
     "**/*.ts",
     "**/*.tsx",
     "next-env.d.ts",
-    ".next/types/**/*.ts"
-, "src/app/futurehome"  ],
+    ".next/types/**/*.ts",
+    "src/app/futurehome"
+  ],
   "exclude": [
     "node_modules"
   ]
