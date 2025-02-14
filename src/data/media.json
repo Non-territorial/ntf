@@ -3,7 +3,7 @@
     {
       "id": "img1",
       "type": "image",
-      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/010_titles_roma-VT8cAiZx1vpwWSRimOzOGoqHLb55wO.jpeg",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/009_rome_shot-M9BbaDDhCqG5RtmgDwgTIPgR1IOTc2.jpg",
       "title": "Titles started in 2020 as an index of artwork, or the way to operate the catalog of works."
     },
     {
@@ -57,20 +57,21 @@
     {
       "id": "img8",
       "type": "image",
-      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007_rome_shot-rw3IJsLV3hfyymGlC8wdHbGwTEd7op.png"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007_rome_shot-rw3IJsLV3hfyymGlC8wdHbGwTEd7op.png",
+      "title": "Some are developed, some in development,"
       
     },
     {
       "id": "img9",
       "type": "image",
-      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/008_rome_shot-ShQDmpZHf7dZzRf35XjluIZQLP6uIZ.png"
-      
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/008_rome_shot-ShQDmpZHf7dZzRf35XjluIZQLP6uIZ.png",
+      "title": "some will be developed."
     },
     {
       "id": "img10",
       "type": "image",
-      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/009_rome_shot-M9BbaDDhCqG5RtmgDwgTIPgR1IOTc2.jpg"
-      
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/010_titles_roma-VT8cAiZx1vpwWSRimOzOGoqHLb55wO.jpeg",
+      "title": "Exhibition view, May 2021 Rome, Italy"
     },
     {
       "id": "99",
@@ -78,7 +79,7 @@
       "titles": [
             { "name": "001 Cosmic Idiot", "view": "" },
             { "name": "002 Something Went Terribly Wrong", "view": "" },
-            { "name": "003 Climate Exchange", "view": "/gallery/climate-exchange" },
+            { "name": "003 Climate Exchange", "view": "" },
             { "name": "004 False Hope Masters", "view": "" },
             { "name": "005 Call Center", "view": "" },
             { "name": "006 Monitoring Room", "view": "" },
