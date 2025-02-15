@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import Image from "next/image";
@@ -30,6 +30,7 @@ const mediaDataTyped = mediaData as Record<string, MediaItem[]>;
 const GalleryDetailPage = () => {
   const params = useParams();
   const workId = params?.id as string;
+  const [isMobile, setIsMobile] = useState(false);
 
   // Initialize state with JSON media for this work only.
   const [mediaItems] = useState<MediaItem[]>(() => {
@@ -68,6 +69,36 @@ const GalleryDetailPage = () => {
   const customLoader = ({ src }: { src: string }) => {
     return `https://images.weserv.nl/?url=${encodeURIComponent(src)}&w=800&h=600&q=75`;
   };
+  useEffect(() => {
+    const checkScreenSize = () => {
+      setIsMobile(window.innerWidth < 768); // Adjust width threshold if needed
+    };
+
+    checkScreenSize();
+    window.addEventListener("resize", checkScreenSize);
+
+    return () => window.removeEventListener("resize", checkScreenSize);
+  }, []);
+
+  // 🔹 This part shows the message instead of the exhibition on mobile
+  if (isMobile) {
+    return (
+      <div className="bg-black text-white min-h-screen">
+        <nav className="w-full py-4 flex justify-center bg-black">
+        <Link href="/gallery">
+          <Image src="/logo.png" alt="Logo" width={40} height={40} className="cursor-pointer" />
+        </Link>
+      </nav>
+        <div className="flex flex-col items-center justify-center h-screen text-center p-6">
+          <p className="text-lg font-semibold">
+            This exhibition is best viewed on a larger screen.
+            Please visit from a desktop or tablet.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
 
   return (
     <div className="bg-black text-white flex flex-col items-center">
