@@ -57,25 +57,14 @@ export default function Home() {
   </main>
   <footer className="absolute bottom-0 w-full flex flex-col justify-center items-center text-center space-y-1 mb-10 z-50">
   <p className="text-lg leading-relaxed"> 
-    <a
-      href="mailto:info@nonterritorial.net"
-      className="text-gray-400 hover:text-white"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      info@nonterritorial.net
-    </a>
-  </p>
-  <p className="text-lg leading-relaxed mb-8">
-    <a
-      href="tel:+393517176405"
-      className="text-gray-400 hover:text-white"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      +39 351 717 6405
-    </a>
-  </p>
+  <Link
+          href="/contact"
+          className="text-gray-400 hover:text-white"
+        >
+          Contact
+        </Link>
+        </p>
+ 
 </footer>
 
 
