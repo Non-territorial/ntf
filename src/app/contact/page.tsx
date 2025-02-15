@@ -26,10 +26,10 @@ export default function HowItWorks() {
           <p className="text-lg leading-relaxed">
       <strong>Email:</strong>{" "}
       <a
-        href="mailto:i@nonterritorial.foundation"
+        href="mailto:info@nonterritorial.net"
         className="text-gray-800 hover:text-gray-400"
       >
-        i@nonterritorial.foundation
+        info@nonterritorial.net
       </a>
     </p>
     <p className="text-lg leading-relaxed">

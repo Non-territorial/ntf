@@ -1,15 +1,15 @@
 [
-    { "id": "titles", "title": "TITLES", "thumbnail": "https://bafybeibcb6am63choxeg57sr2rhlmr3ywrvzitogodjfdmjwth5o7pkneq.ipfs.dweb.link",  "disabled": false },
-    { "id": "xl", "title": "XL", "thumbnail": "https://bafkreicgmt2nmfsvg5wzgonxzcys4cjk4nsvpwgy34w6c2ryng3bvt4epi.ipfs.dweb.link",  "disabled": true },
-    { "id": "moving-emptiness", "title": "MOVING EMPTINESS", "thumbnail": "https://bafkreidqy3e5v5qspvv72irxu34gbodcbwb6sy5rqr722jq23x3x6lvgee.ipfs.dweb.link",  "disabled": true },
-    { "id": "bai-ueit", "title": "BAI UEIT", "thumbnail": "https://bafybeid7xjewsr4gnpnfgnscmsftgtzorobatavwybd3dsy4bzb2jt7ylu.ipfs.dweb.link",  "disabled": true },
-    { "id": "climate-exchange", "title": "CLIMATE EXCHANGE", "thumbnail": "https://bafybeiceeltncz5mcnkti3kfxieqwfgj4f36d6bqfcypqeuhn6mawomnkq.ipfs.dweb.link",  "disabled": true },
-    { "id": "estetica-protesica", "title": "ESTETICA PROTESICA", "thumbnail": "https://bafkreihfijxdleja6dq3z5w2hak72pz2ulfzgetomcntqnnnzmuloopnsi.ipfs.dweb.link",  "disabled": true },
-    { "id": "final-tour-leader", "title": "FINAL TOUR LEADER", "thumbnail": "https://bafybeibdlptqhlravweovfc4c2yuftjyevhs5nnhfovpsi2ybf6p5rzv2a.ipfs.dweb.link",  "disabled": true },
-    { "id": "levels-of-perception", "title": "LEVELS OF PERCEPTION", "thumbnail": "https://bafybeihfvyjs3cclecud4dgfvfwazx3vxupo62p6u4xqx2ltftdma3z5cy.ipfs.dweb.link",  "disabled": true },
-    { "id": "techno-zombie", "title": "TECHNO ZOMBIE", "thumbnail": "https://bafkreidnkdvsoyosa5pmq4gjddmbgxobeg7jh7wzmkrzlf34lurdhn5wcq.ipfs.dweb.link",  "disabled": true },
-    { "id": "the-conference", "title": "THE CONFERENCE", "thumbnail": "https://bafybeicd2tdnmfftphqv7mgwg46esj7opgjtnefnx7mn5thc3j5jr6yeze.ipfs.dweb.link",  "disabled": true },
-    { "id": "undisclosed", "title": "UNDISCLOSED", "thumbnail": "https://bafkreibqp7572hhh3gtf6dwqvcvy2vi4fyhj77nvo72qji7kfkuuejcrna.ipfs.dweb.link",  "disabled": true }
+    { "id": "titles", "title": "TITLES", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007_rome_shot-rw3IJsLV3hfyymGlC8wdHbGwTEd7op.png",  "disabled": false },
+    { "id": "xl", "title": "XL", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/IMG_2673-kLFBs2ElXJVC421yjyVjKKQj9fB4l5.jpeg",  "disabled": true },
+    { "id": "moving-emptiness", "title": "MOVING EMPTINESS", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/rt1-hpstQRLwjZHrQ5Mti8CjedytIQztnx.webp",  "disabled": true },
+    { "id": "bai-ueit", "title": "BAI UEIT", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Screenshot%202019-06-02%2023.49.52-Pxix3POtiz0Zx9xRnSkV2eLGrDEpVZ.png",  "disabled": true },
+    { "id": "climate-exchange", "title": "CLIMATE EXCHANGE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/CE-Cypv3Ol4srQrORpd6jPIO3Un8Oeyx0.webp",  "disabled": true },
+    { "id": "estetica-protesica", "title": "ESTETICA PROTESICA", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Screenshot%202024-05-17%20at%2022.55.06-5pJAaBdA04vL94Ew2O91U5IA6zz46E.png",  "disabled": true },
+    { "id": "final-tour-leader", "title": "FINAL TOUR LEADER", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/FINAL%20TOUR%20LEADER-qfpBERooBKxFKTECUNwEg3KtUk7wZb.png",  "disabled": true },
+    { "id": "levels-of-perception", "title": "LEVELS OF PERCEPTION", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/LEVELS%20OF%20PERCEPTION-rFTi2fcGORPZVjBQNmGmLtGdJsrqUF.webp",  "disabled": true },
+    { "id": "techno-zombie", "title": "TECHNO ZOMBIE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/TECHNO%20ZOMBIE%20II-R6KDiaVnQUIOI4GbsVImDrtxIdFkfS.png",  "disabled": true },
+    { "id": "the-conference", "title": "THE CONFERENCE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/IMG_8938%20Large-fnhsi9LtgbDGz3PZVH9f6MJUqSaDE2.png",  "disabled": true },
+    { "id": "undisclosed", "title": "UNDISCLOSED", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Title%20Image-WsfXXaw4HRoDgBvwVIR1OE2g82cMJE.png",  "disabled": true }
     
   ]
  
