@@ -14,25 +14,24 @@ export default function LandingPage() {
       </nav>
 
       {/* Main Content */}
-      <div className="flex flex-col items-center">
-  <Image
-    src="/logo.png"
-    alt="Arrows and Circle"
-    width={300}
-    height={300}
-    className="object-contain"
-  />
-  <span
-    className="mt-8 text-white text-xl hover:text-orange-400 cursor-pointer"
-    onClick={() => router.push("/home")}
-  >
-    ENTER
-  </span>
-</div>
-
+      <div className="flex flex-col items-center px-4">
+        <Image
+          src="/logo.png"
+          alt="Arrows and Circle"
+          width={300}
+          height={300}
+          className="object-contain max-w-[70%] sm:max-w-[50%] md:max-w-[40%] lg:max-w-[30%]"
+        />
+        <span
+          className="mt-8 text-white text-lg sm:text-xl md:text-xl hover:text-gray-300 cursor-pointer"
+          onClick={() => router.push("/home")}
+        >
+          ENTER
+        </span>
+      </div>
 
       {/* Bottom Tagline */}
-      <footer className="text-gray-500 text-sm pb-8">
+      <footer className="text-gray-500 text-xs sm:text-sm pb-8">
         REDUCING THE DISTANCE BETWEEN ART AND LIFE
       </footer>
     </div>

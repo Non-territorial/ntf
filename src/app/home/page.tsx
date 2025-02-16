@@ -22,7 +22,7 @@ export default function Home() {
       <div className="absolute top-0 left-0 w-full h-full bg-black/50"></div>
 
       {/* Navbar */}
-      <nav className="relative w-full bg-black py-4 flex justify-center z-10">
+      <nav className="relative w-full bg-black py-3 sm:py-4 flex justify-center z-10">
         <Link href="/">
           <Image
             src="/logo.png"
@@ -36,39 +36,33 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="relative flex flex-col justify-center items-center flex-grow z-10 px-4">
-    <div className="flex flex-col items-center max-w-sm ml-8 mr-8 text-gray-400 text-left">
-      <h1 className="text-xl text-white">NONTERRITORIAL</h1>
-      <h2 className="text-sm font-bold text-gray-500 mb-8">PRIVATE EXHIBITIONS</h2>
-      <p className="text-lg leading-relaxed mt-4 mb-8">
-        Nonterritorial introduces art projects whose nature and scale exceed the
-        limits normally available within the traditional museum or gallery. It is
-        about a combination and resonance between context, location, and artwork,
-        promoting a new idea of circulation of arts.
-      </p>
-      <p className="text-xl leading-relaxed mt-4"> 
-        <Link
-          href="/gallery"
-          className="text-gray-400 hover:text-white"
-        >
-          EXHIBITIONS
-        </Link>
-      </p>
- </div>
-  </main>
-  <footer className="absolute bottom-0 w-full flex flex-col justify-center items-center text-center space-y-1 mb-10 z-50">
-  <p className="text-lg leading-relaxed"> 
-  <Link
-          href="/contact"
-          className="text-gray-400 hover:text-white"
-        >
-          Contact
-        </Link>
+        <div className="flex flex-col items-center w-full max-w-lg px-4 sm:px-8 text-gray-400 text-left">
+          <h1 className="text-lg sm:text-xl text-white">NONTERRITORIAL</h1>
+          <h2 className="text-sm font-bold text-gray-500 mb-4 sm:mb-8">
+            PRIVATE EXHIBITIONS
+          </h2>
+          <p className="text-sm sm:text-lg leading-relaxed mt-2 sm:mt-4 mb-4 sm:mb-8">
+            Nonterritorial introduces art projects whose nature and scale exceed the
+            limits normally available within the traditional museum or gallery.
+            It is about a combination and resonance between context, location, and artwork,
+            promoting a new idea of circulation of arts.
+          </p>
+          <p className="text-lg leading-relaxed mt-2 sm:mt-4">
+            <Link href="/gallery" className="text-gray-400 hover:text-white">
+              EXHIBITIONS
+            </Link>
+          </p>
+        </div>
+      </main>
+
+      {/* Footer */}
+      <footer className="absolute bottom-0 w-full flex flex-col justify-center items-center text-center space-y-1 mb-6 sm:mb-10 z-50">
+        <p className="text-sm sm:text-lg leading-relaxed">
+          <Link href="/contact" className="text-gray-400 hover:text-white">
+            Contact
+          </Link>
         </p>
- 
-</footer>
-
-
+      </footer>
     </div>
-    
   );
 }

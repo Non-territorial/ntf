@@ -14,6 +14,8 @@ export default {
       },
       fontFamily: {
         isocpeur: ["Isocpeur", "sans-serif"], // Custom font integration
+        numbers: ["'IBM Plex Mono Light'", "monospace"], // Custom font for numbers
+        artists: ["'IBM Plex Mono Light'", "monospace"],
       },
       clipPath: {
         polygon: "polygon(100% 50%, 0 0, 0 100%)", // Custom polygon shape
