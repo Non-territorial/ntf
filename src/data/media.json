@@ -361,32 +361,32 @@
     {
       "id": "img1",
       "type": "image",
-      "src": "/images/work4-image1.jpg",
-      "title": "Work 4 Image 1"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/01-JWrxe6J4dJNroMGMsecppFdod8hp6f.png",
+      "title": "Opening"
     },
     {
       "id": "img2",
       "type": "image",
-      "src": "/images/work4-image2.jpg",
-      "title": "Work 4 Image 2"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/02-lEgzmYC2ue8HKNpx1OYQdJQWcGfWtY.png",
+      "title": "BAI UEIT"
     },
     {
       "id": "img3",
       "type": "image",
-      "src": "/images/work4-image3.jpg",
-      "title": "Work 4 Image 3"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/03-80D3q8H5WJu0F4ji8htvbvQQX0FWrE.png",
+      "title": ""
     },
     {
       "id": "img4",
       "type": "image",
-      "src": "/images/work4-image4.jpg",
-      "title": "Work 4 Image 4"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/04-dNprcTDwIotiNnKHBzwHmFAsLVOQr0.png",
+      "title": ""
     },
     {
       "id": "img5",
       "type": "image",
-      "src": "/images/work4-image5.jpg",
-      "title": "Work 4 Image 5"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/05-H1FA94JE5w2KjZYZFlIdL6GUdbln4t.png",
+      "title": ""
     },
     {
       "id": "img6",
