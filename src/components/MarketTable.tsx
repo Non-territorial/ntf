@@ -24,7 +24,8 @@ const MarketTable: React.FC<MarketTableProps> = ({ data }) => {
           </tr>
         </thead>
         <tbody>
-  {data.map((artist, index) => (
+  {data.map((artist) => (
+    
     <tr
       key={artist.id}
       className="bg-black text-gray-300 border-b border-gray-500"
