@@ -89,7 +89,7 @@ const MarketDashboard: React.FC = () => {
       backgroundColor: "rgba(0, 0, 0, 0.85)", // ✅ Better blending
       borderRadius: "8px", // ✅ Softer edges
       padding: "12px",
-      boxShadow: "0px 10px 30px rgba(0, 0, 0, 0.6)", // ✅ Creates depth effect
+      boxShadow: "5px 15px 35px rgba(0, 0, 0, 0.6)", // ✅ Creates depth effect
     }}
   >
     <MarketTable data={displayedArtists} />

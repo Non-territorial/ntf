@@ -46,7 +46,7 @@ export default function Home() {
           </p>
           <p className="text-lg leading-relaxed mt-2 sm:mt-4">
             <Link href="/gallery" className="text-gray-400 hover:text-white">
-              PRIVATE EXHIBITIONS
+              EXHIBITIONS
             </Link>
           </p>
         </div>
