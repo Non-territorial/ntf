@@ -45,8 +45,8 @@ export default function Home() {
             promoting a new idea of circulation of arts.
           </p>
           <p className="text-lg leading-relaxed mt-2 sm:mt-4">
-            <Link href="/gallery" className="text-gray-400 hover:text-white">
-              EXHIBITIONS
+            <Link href="/contact" className="text-gray-400 hover:text-white">
+              Exhibitions Preview
             </Link>
           </p>
         </div>

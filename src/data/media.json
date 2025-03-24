@@ -184,108 +184,107 @@
     {
       "id": "img1",
       "type": "image",
-      "src": "/images/work2-image1.jpg",
-      "title": "Work 2 Image 1"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/001-KvdZfg7oqcHO6AjFn37XxuxRqZS2yW.png",
+      "title": "Everything except a human is possible to express through calculation. "
     },
     {
       "id": "img2",
       "type": "image",
-      "src": "/images/work2-image2.jpg",
-      "title": "Work 2 Image 2"
-    },
-    {
-      "id": "img3",
-      "type": "image",
-      "src": "/images/work2-image3.jpg",
-      "title": "Work 2 Image 3"
-    },
-    {
-      "id": "img4",
-      "type": "image",
-      "src": "/images/work2-image4.jpg",
-      "title": "Work 2 Image 4"
-    },
-    {
-      "id": "img5",
-      "type": "image",
-      "src": "/images/work2-image5.jpg",
-      "title": "Work 2 Image 5"
-    },
-    {
-      "id": "img6",
-      "type": "image",
-      "src": "/images/work2-image6.jpg",
-      "title": "Work 2 Image 6"
-    },
-    {
-      "id": "img7",
-      "type": "image",
-      "src": "/images/work2-image7.jpg",
-      "title": "Work 2 Image 7"
-    },
-    {
-      "id": "img8",
-      "type": "image",
-      "src": "/images/work2-image8.jpg",
-      "title": "Work 2 Image 8"
-    },
-    {
-      "id": "img9",
-      "type": "image",
-      "src": "/images/work2-image9.jpg",
-      "title": "Work 2 Image 9"
-    },
-    {
-      "id": "img10",
-      "type": "image",
-      "src": "/images/work2-image10.jpg",
-      "title": "Work 2 Image 10"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/003-SqMlhccJ3ZJnQdGtouVrRh69ipbGSD.png",
+      "title": ""
     },
     {
       "id": "vid1",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id2-1.m3u8",
-      "title": "Work 2 Video 1",
+      "src": "02Aucl649W8JexkGbqWId01W4wahln2HU022WC401kT8elc",
       "tags": [
         "work2",
         "video1"
       ]
     },
     {
+      "id": "img3",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/004-2u8mfwNAzTy4orcUNvy3TZAPPYZsv8.jpg",
+      "title": "It is an optical artwork about seeing."
+    },
+    {
+      "id": "img4",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/005-X4JFcrwh5LRgtFbLosix1smO8ly8xu.png",
+      "title": ""
+    },
+    {
       "id": "vid2",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id2-2.m3u8",
-      "title": "Work 2 Video 2",
+      "src": "6BDQ7NZ16yF1KF19bIunTSYDQxIeK3CSBhhtVUWQeg4",
+     
       "tags": [
         "work2",
         "video2"
       ]
     },
     {
+      "id": "img5",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/006-LaEojnyb1luO16BaM2oGX8lH8R4B2c.png",
+      "title": "It can be understood as a filter or a lens through which you see. Imagine wearing glasses which has lenses made from the accountant's spreadsheet."
+    },
+    {
+      "id": "img6",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007-1Z1jqQVX4hkRACrRbrg0xYUg8B2vBm.png",
+      "title": ""
+    },
+    {
       "id": "vid3",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id2-3.m3u8",
-      "title": "Work 2 Video 3",
+      "src": "zol01Vwb7XCsv015BtSLBo4HoUkCmw4TucOI44zlovHmI",
+      
       "tags": [
         "work2",
         "video3"
       ]
     },
     {
+      "id": "img7",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/008-eHnbH7wawCheX7A7NQqc4dsk9DTzUE.jpg",
+      "title": "That spreadsheet as the only language, the only culture, the only instrument, the only relation to the world."
+    },
+    {
+      "id": "img8",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/009-rDntbY1WdBoKqgyCwAHhzg2Eqr7hYi.png",
+      "title": ""
+    },
+    {
       "id": "vid4",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id2-4.m3u8",
-      "title": "Work 2 Video 4",
+      "src": "dhekHAJmDpeNxWGi900y200pqm5fXwfm01jsX01aDSLVb54",
+     
       "tags": [
         "work2",
         "video4"
       ]
     },
     {
+      "id": "img9",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/015-q79srxPwjNnGJeQymGuQwLofvAduGB.jpg",
+      "title": "It is a meditative installation composed of static and moving fragments, a series of prints, and cinematic frames. "
+    },
+    {
+      "id": "img10",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/010-CptaaaD1H7CnATxxnBjNHGjI1XEM0X.png",
+      "title": ""
+    },
+    {
       "id": "vid5",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id2-5.m3u8",
-      "title": "Work 2 Video 5",
+      "src": "sYf9sIWSRE7M702XvbJXjvXMmkycA801zCh6tIw3j7dis",
+     
       "tags": [
         "work2",
         "video5"
@@ -296,26 +295,26 @@
     {
       "id": "img1",
       "type": "image",
-      "src": "/images/ME/text.webp",
-      "title": "Moving Emptiness"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/001_racing_tracks-XUNJbKpfavnzC6tSxINZcLSpOVz4yG.png",
+      "title": "The source of the work is related to one specific geographic location: Monte Carlo."
     },
     {
       "id": "img2",
       "type": "image",
-      "src": "/images/ME/002.webp",
-      "title": ""
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/002_racing_track-wv5sW2md4n7yGXdGdmUIBQCGO30y0W.jpg",
+      "title": "‘Like being in a pilots seat’"
     },
     {
       "id": "img3",
       "type": "image",
-      "src": "/images/ME/003.webp",
-      "title": ""
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/003_racing_track-TjYl38N3lvwjpHglVbnkaCNW8bMcmg.jpeg",
+      "title": "The pilot speeds up throughout the racing track of Monte Carlo."
     },
     {
       "id": "vid1",
       "type": "video",
       "src": "oT6JnP0151PRg1F02q02zV8bMcutAaEL3VIYcNdOEZDypE",
-      "title": "Opera",
+      
       "tags": [
         "Opera",
         "Montecarlo"
@@ -324,26 +323,26 @@
     {
       "id": "img4",
       "type": "image",
-      "src": "/images/ME/004.webp",
-      "title": ""
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/004_racing_track-aeyE0I9VAo4gZmKYC5bMwloQygE2gW.png",
+      "title": "In the beginning, the view is coming from outside, inwards. Pilot is processing. Later, the view shifts from inwards back outwards. And that view becomes abstract. "
     },
     {
       "id": "img5",
       "type": "image",
-      "src": "/images/ME/005.webp",
-      "title": ""
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/005_racing_track-lfA3PXQD9RxNM5eQRBeL91cMBy9Zmw.png",
+      "title": "Shaking visions, and turbulent views through the pilots helmet, speeding up, slowing down, getting into the dark tunnels, coming out of them, getting into the blinding sun, going into darkness again. And in between noticing something, some fragments of life. Racing Track has no stops, and no exits."
     },
     {
       "id": "img6",
       "type": "image",
-      "src": "/images/ME/006.webp",
-      "title": ""
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/006_racing_track-yfsLkvp6dId4A3BWxbELkEAiAafatg.jpg",
+      "title": "Racing track as a Carrier."
     },
     {
       "id": "vid2",
       "type": "video",
       "src": "PQ8VQ9b2fqj255100s02GnAvES019gsVN7xpQ78rokOkzY",
-      "title": "Thermo Frames",
+      
       "tags": [
         "thermo frames",
         "moving emptiness"
@@ -352,8 +351,14 @@
     {
       "id": "img7",
       "type": "image",
-      "src": "/images/ME/007.webp",
-      "title": ""
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007_racing_track-TLnvCNG98utnBrZfqmnHF89nQ3Yy46.jpg",
+      "title": "The composition of the piece unfolds differently every time it is perceived."
+    },
+    {
+      "id": "img8",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/008_racing_track-3afR8zGMUtwxHD6rxcsnngLIDH0Ovz.jpg",
+      "title": "A full-scale installation is composed of moving and static images, it also has a 'live experiences' booking list, meaning that spectators can book an instruction-based 'live experience'."
     }
     
   ],
@@ -473,448 +478,292 @@
     {
       "id": "img1",
       "type": "image",
-      "src": "/images/work5-image1.jpg",
-      "title": "Work 5 Image 1"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/001-RduvY1iylCQOoofD7TrPtOKNcQKWpo.jpg",
+      "title": "An audio-visual installation represents its Title, "
     },
     {
       "id": "img2",
       "type": "image",
-      "src": "/images/work5-image2.jpg",
-      "title": "Work 5 Image 2"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/002-kuqYj91Ij97LJ2qcG5n2kYV76CjjyG.jpeg",
+      "title": ""
     },
     {
       "id": "img3",
       "type": "image",
-      "src": "/images/work5-image3.jpg",
-      "title": "Work 5 Image 3"
-    },
-    {
-      "id": "img4",
-      "type": "image",
-      "src": "/images/work5-image4.jpg",
-      "title": "Work 5 Image 4"
-    },
-    {
-      "id": "img5",
-      "type": "image",
-      "src": "/images/work5-image5.jpg",
-      "title": "Work 5 Image 5"
-    },
-    {
-      "id": "img6",
-      "type": "image",
-      "src": "/images/work5-image6.jpg",
-      "title": "Work 5 Image 6"
-    },
-    {
-      "id": "img7",
-      "type": "image",
-      "src": "/images/work5-image7.jpg",
-      "title": "Work 5 Image 7"
-    },
-    {
-      "id": "img8",
-      "type": "image",
-      "src": "/images/work5-image8.jpg",
-      "title": "Work 5 Image 8"
-    },
-    {
-      "id": "img9",
-      "type": "image",
-      "src": "/images/work5-image9.jpg",
-      "title": "Work 5 Image 9"
-    },
-    {
-      "id": "img10",
-      "type": "image",
-      "src": "/images/work5-image10.jpg",
-      "title": "Work 5 Image 10"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/003-EY2QtFo1vkDmh3wG27JqzEAuTeis2J.jpeg",
+      "title": "namely the exchange of ‘Cosmic Assets',"
     },
     {
       "id": "vid1",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id5-1.m3u8",
-      "title": "Work 5 Video 1",
+      "src": "4xUkKW2ink59xJhMl01ojOyqPmVSInth6W8ifSkCgsGA",
+      
       "tags": [
         "work5",
         "video1"
       ]
     },
     {
+      "id": "img4",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/004-K38s7uhCKWTidgUZ7Gngo593z18WmQ.png",
+      "title": "where, through numerical hallucinations,"
+    },
+    {
+      "id": "img5",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/005-ct81tbI0d8LJILpomOaX5xqoZzWaOD.png",
+      "title": ""
+    },
+    {
+      "id": "img6",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/006-12qx0Q0IF9fqCALUKlrWWFw1qIYZl8.JPG",
+      "title": "the human desire to monetize the cosmos."
+    },
+    {
       "id": "vid2",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id5-2.m3u8",
-      "title": "Work 5 Video 2",
+      "src": "oER6gTHELB02OzwSuB01KftxMBUY4UVM8g6mUevj5qjKk",
+    
       "tags": [
         "work5",
         "video2"
       ]
     },
     {
+      "id": "img7",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007-d8qsiOcaRk0rGmBGCQ2ULZSCFXPdUN.png",
+      "title": "Pz.Colonna, Rome, Italy 2021"
+    },
+    {
+      "id": "img8",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/008-aIx6Wcgsl4ARfNxYfWwTJmgp2onlZw.jpeg",
+      "title": "Its an evolving installation, adapting to diverse contexts, and mediums. "
+    },
+    {
       "id": "vid3",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id5-3.m3u8",
-      "title": "Work 5 Video 3",
+      "src": "WeVKQrAziJLdJXZ3D7OHmbdvvgEk2zpYXC3z8JmnIqw",
+     
       "tags": [
         "work5",
         "video3"
       ]
-    },
-    {
-      "id": "vid4",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id5-4.m3u8",
-      "title": "Work 5 Video 4",
-      "tags": [
-        "work5",
-        "video4"
-      ]
-    },
-    {
-      "id": "vid5",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id5-5.m3u8",
-      "title": "Work 5 Video 5",
-      "tags": [
-        "work5",
-        "video5"
-      ]
     }
+   
   ],
   "estetica-protesica": [
     {
-      "id": "img1",
-      "type": "image",
-      "src": "/images/work6-image1.jpg",
-      "title": "Work 6 Image 1"
-    },
-    {
-      "id": "img2",
-      "type": "image",
-      "src": "/images/work6-image2.jpg",
-      "title": "Work 6 Image 2"
-    },
-    {
-      "id": "img3",
-      "type": "image",
-      "src": "/images/work6-image3.jpg",
-      "title": "Work 6 Image 3"
-    },
-    {
-      "id": "img4",
-      "type": "image",
-      "src": "/images/work6-image4.jpg",
-      "title": "Work 6 Image 4"
-    },
-    {
-      "id": "img5",
-      "type": "image",
-      "src": "/images/work6-image5.jpg",
-      "title": "Work 6 Image 5"
-    },
-    {
-      "id": "img6",
-      "type": "image",
-      "src": "/images/work6-image6.jpg",
-      "title": "Work 6 Image 6"
-    },
-    {
-      "id": "img7",
-      "type": "image",
-      "src": "/images/work6-image7.jpg",
-      "title": "Work 6 Image 7"
-    },
-    {
-      "id": "img8",
-      "type": "image",
-      "src": "/images/work6-image8.jpg",
-      "title": "Work 6 Image 8"
-    },
-    {
-      "id": "img9",
-      "type": "image",
-      "src": "/images/work6-image9.jpg",
-      "title": "Work 6 Image 9"
-    },
-    {
-      "id": "img10",
-      "type": "image",
-      "src": "/images/work6-image10.jpg",
-      "title": "Work 6 Image 10"
-    },
-    {
       "id": "vid1",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id6-1.m3u8",
-      "title": "Work 6 Video 1",
+      "src": "dGaK6hDCuMBUTvSNYyFqtHzHbb85eBfPU02UvTL02yLKk",
+      "title": "Nature. For thousands of years, we have been looking for cosmic refuge, where we have fled from the maddening noise of human-to-human things, from the atrocities of history, from the vanity and emptiness of life, from tyrannies, from regimes, from the hells, and from our own stupidity. We’ve almost reached the zero.",
       "tags": [
         "work6",
         "video1"
       ]
     },
     {
+      "id": "img1",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/08-Bv9gtufNWBgMnPExEZJhVQ2U46CpZv.png",
+      "title": "Nature is converted into a solid mass; each of its objects or societies is ex-territorialised and expatriated from its place defined by the order of transcendence."
+    },
+    {
       "id": "vid2",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id6-2.m3u8",
-      "title": "Work 6 Video 2",
+      "src": "aULEtlojrAaBpAhQQyKl00IM2eEnzxhlGJ3Rd0248iYug",
+      "title": "And it is not important that, in the era of utopia, nature is transformed into a pure raw material, a depository of energy and mass.",
       "tags": [
         "work6",
         "video2"
       ]
-    },
-    {
-      "id": "vid3",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id6-3.m3u8",
-      "title": "Work 6 Video 3",
-      "tags": [
-        "work6",
-        "video3"
-      ]
-    },
-    {
-      "id": "vid4",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id6-4.m3u8",
-      "title": "Work 6 Video 4",
-      "tags": [
-        "work6",
-        "video4"
-      ]
-    },
-    {
-      "id": "vid5",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id6-5.m3u8",
-      "title": "Work 6 Video 5",
-      "tags": [
-        "work6",
-        "video5"
-      ]
-    }
-  ],
-  "final-tour-leader": [
-    {
-      "id": "img1",
-      "type": "image",
-      "src": "/images/work7-image1.jpg",
-      "title": "Work 7 Image 1"
     },
     {
       "id": "img2",
       "type": "image",
-      "src": "/images/work7-image2.jpg",
-      "title": "Work 7 Image 2"
-    },
-    {
-      "id": "img3",
-      "type": "image",
-      "src": "/images/work7-image3.jpg",
-      "title": "Work 7 Image 3"
-    },
-    {
-      "id": "img4",
-      "type": "image",
-      "src": "/images/work7-image4.jpg",
-      "title": "Work 7 Image 4"
-    },
-    {
-      "id": "img5",
-      "type": "image",
-      "src": "/images/work7-image5.jpg",
-      "title": "Work 7 Image 5"
-    },
-    {
-      "id": "img6",
-      "type": "image",
-      "src": "/images/work7-image6.jpg",
-      "title": "Work 7 Image 6"
-    },
-    {
-      "id": "img7",
-      "type": "image",
-      "src": "/images/work7-image7.jpg",
-      "title": "Work 7 Image 7"
-    },
-    {
-      "id": "img8",
-      "type": "image",
-      "src": "/images/work7-image8.jpg",
-      "title": "Work 7 Image 8"
-    },
-    {
-      "id": "img9",
-      "type": "image",
-      "src": "/images/work7-image9.jpg",
-      "title": "Work 7 Image 9"
-    },
-    {
-      "id": "img10",
-      "type": "image",
-      "src": "/images/work7-image10.jpg",
-      "title": "Work 7 Image 10"
-    },
-    {
-      "id": "vid1",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id7-1.m3u8",
-      "title": "Work 7 Video 1",
-      "tags": [
-        "work7",
-        "video1"
-      ]
-    },
-    {
-      "id": "vid2",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id7-2.m3u8",
-      "title": "Work 7 Video 2",
-      "tags": [
-        "work7",
-        "video2"
-      ]
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/29-4AOstDNNnsPWwt1d4wapptqf1VgaaX.png",
+      "title": "What is important and fatal is that the fate of the language of false simulators is imposed on nature, and prosthetics are installed in the interiors of natural things."
     },
     {
       "id": "vid3",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id7-3.m3u8",
-      "title": "Work 7 Video 3",
+      "src": "TIE4X8GuGu0001iGHxJsqUHiTbro400awPKr7ynp01Nyy800",
+      "title": "The Sun is becoming a factory of 'thermonuclear reactions', a factory of hydrogen and helium configurations, a mass of electrons, protons and other 'elementary particles'.",
       "tags": [
-        "work7",
+        "work6",
         "video3"
       ]
     },
     {
+      "id": "img3",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/25-PtrwoCnogMT64vd563lLyDZQYrjeG3.png",
+      "title": "It is no longer in the sky of my daily life, it is no longer in the sunrises and sunsets, it is no longer in any part of the reality of the world."
+    },
+    {
       "id": "vid4",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id7-4.m3u8",
-      "title": "Work 7 Video 4",
+      "src": "8xk72A88e02mdrRjrlfI00JMMfnhOl00nSB4EwJ8fdqiI8",
+      "title": "The sun is becoming a utopian X which draws an invisible trajectory. It is no longer even the sun that protects the life of the world or the life of the utopian.",
       "tags": [
-        "work7",
+        "work6",
         "video4"
       ]
     },
     {
+      "id": "img4",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/27-E3ep5X8XykqXqfD55DgVs7jJEGeiSB.png",
+      "title": "Wherever the utopian goes, he encounters man, but he cannot find himself anywhere, and he can no longer recognise himself in the Other, in the being of the Other."
+    },
+    {
       "id": "vid5",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id7-5.m3u8",
-      "title": "Work 7 Video 5",
+      "src": "F01VlSkOGmLLwWGQ5JTRU8XmvEvhwTTJb62pUbqEHPHk",
+      "title": "And in no longer finding himself in the Other, the utopian loses both himself and the Other.",
       "tags": [
-        "work7",
+        "work6",
         "video5"
       ]
+    },
+    {
+      "id": "img5",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/26-b3jyoCuanXTZcpyzYkWLCEPcaeVsZf.png",
+      "title": "This is the ultimate loss that drives man into a nihilistic desert where the dominant aesthetics of the prothesis is one of absolute insensibility, and of insensitivity. The desert where there is no feeling."
+    },
+    {
+      "id": "vid5",
+      "type": "video",
+      "src": "dv29ZtspKu75SbzIAXxFp9100r3IRukUjKwOQhz400hQE",
+      "title": "Like the garden of the prothesis...",
+      "tags": [
+        "work6",
+        "video5"
+      ]
+    },
+    {
+      "id": "img6",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/31-vOp1sVrwGsRtefZG08Gf2QULjicHCS.png",
+      "title": "The work is divided into chapters, or fragments, which move through the different layers of a contemporary reality."
     }
   ],
   "levels-of-perception": [
     {
       "id": "img1",
       "type": "image",
-      "src": "/images/work8-image1.jpg",
-      "title": "Work 8 Image 1"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/001%20lop%20Large-uOl4uMG8UpY8mqXooWqWFUsiaKu8WC.png",
+      "title": "What you see in front of you, you don't believe"
     },
     {
       "id": "img2",
       "type": "image",
-      "src": "/images/work8-image2.jpg",
-      "title": "Work 8 Image 2"
-    },
-    {
-      "id": "img3",
-      "type": "image",
-      "src": "/images/work8-image3.jpg",
-      "title": "Work 8 Image 3"
-    },
-    {
-      "id": "img4",
-      "type": "image",
-      "src": "/images/work8-image4.jpg",
-      "title": "Work 8 Image 4"
-    },
-    {
-      "id": "img5",
-      "type": "image",
-      "src": "/images/work8-image5.jpg",
-      "title": "Work 8 Image 5"
-    },
-    {
-      "id": "img6",
-      "type": "image",
-      "src": "/images/work8-image6.jpg",
-      "title": "Work 8 Image 6"
-    },
-    {
-      "id": "img7",
-      "type": "image",
-      "src": "/images/work8-image7.jpg",
-      "title": "Work 8 Image 7"
-    },
-    {
-      "id": "img8",
-      "type": "image",
-      "src": "/images/work8-image8.jpg",
-      "title": "Work 8 Image 8"
-    },
-    {
-      "id": "img9",
-      "type": "image",
-      "src": "/images/work8-image9.jpg",
-      "title": "Work 8 Image 9"
-    },
-    {
-      "id": "img10",
-      "type": "image",
-      "src": "/images/work8-image10.jpg",
-      "title": "Work 8 Image 10"
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/002%20lop-UHZxKbI09eXvOf0bOdAFvbQVyXSKh9.png",
+      "title": "What you don't see, you believe"
     },
     {
       "id": "vid1",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id8-1.m3u8",
-      "title": "Work 8 Video 1",
+      "src": "HurugXofGJkJaSYdG61teJRjGt8dXUuZ9du01y701LiRc",
+    
       "tags": [
         "work8",
         "video1"
       ]
     },
     {
+      "id": "img3",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/003%20lop%20Large-rctwO5zrCJKATOtdYl0OV7rJ6P2JJd.png",
+      "title": ""
+    },
+    {
+      "id": "img4",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/004%20lop-IGv27MoK6JeADFF6yYQbXgXjLjVJdO.png",
+      "title": ""
+    },
+    {
       "id": "vid2",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id8-2.m3u8",
-      "title": "Work 8 Video 2",
+      "src": "TP4ju02VDD9sk009JJ59sBShHaXwA6KcqieZ3DGnrfKD4",
+      
       "tags": [
         "work8",
         "video2"
       ]
     },
     {
+      "id": "img5",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/005%20lop%20Large-GeESzzBZdJebeW5CX4sccc6snbHWvn.png",
+      "title": ""
+    },
+    {
+      "id": "img6",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/006%20lop-Y9CXbKQhwzFIhr7YJ3oKmhgiVkWe0V.png",
+      "title": ""
+    },
+    {
       "id": "vid3",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id8-3.m3u8",
-      "title": "Work 8 Video 3",
+      "src": "P4fcv800ZRjfqAamhrwF9QuAZMzJhHcn701oQ3URxXbSo",
+      
       "tags": [
         "work8",
         "video3"
       ]
     },
     {
+      "id": "img7",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007%20lop%20Large-lFRc2oj1g0Pa9lRmeJOT2DF7Qekrfy.png",
+      "title": ""
+    },
+    {
+      "id": "img8",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/008%20lop%20Large-SP96Cn6Cjb9bnISN0O22MMa3yUAWoj.png",
+      "title": ""
+    },
+    {
       "id": "vid4",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id8-4.m3u8",
-      "title": "Work 8 Video 4",
+      "src": "iGmM13A02aqipnGOS2DLnUkljW3YccLkPdcDlUsQenIc",
+     
       "tags": [
         "work8",
         "video4"
       ]
     },
+   
+    {
+      "id": "img9",
+      "type": "image",
+      "src": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/010%20lop%202-I9yqQZsWGeYIHV5RhgUrtodprd2G54.png",
+      "title": ""
+    },
     {
       "id": "vid5",
       "type": "video",
-      "src": "https://stream.mux.com/playback-id8-5.m3u8",
-      "title": "Work 8 Video 5",
+      "src": "qZ02m5nG5skd4ykjgjudTgtkWlmw00KxNk9s5tgxbiBk4",
+      
       "tags": [
         "work8",
         "video5"
       ]
+    },
+    {
+      "id": "link1",
+      "type": "link",
+      "text": "Book Live Experience as Exhibition",
+      "url": "https://www.royalcaribbean.com/plan-a-cruise"
     }
   ],
   "techno-zombie": [
@@ -1137,118 +986,6 @@
       "title": "Work 10 Video 5",
       "tags": [
         "work10",
-        "video5"
-      ]
-    }
-  ],
-  "undisclosed": [
-    {
-      "id": "img1",
-      "type": "image",
-      "src": "/images/work11-image1.jpg",
-      "title": "Work 11 Image 1"
-    },
-    {
-      "id": "img2",
-      "type": "image",
-      "src": "/images/work11-image2.jpg",
-      "title": "Work 11 Image 2"
-    },
-    {
-      "id": "img3",
-      "type": "image",
-      "src": "/images/work11-image3.jpg",
-      "title": "Work 11 Image 3"
-    },
-    {
-      "id": "img4",
-      "type": "image",
-      "src": "/images/work11-image4.jpg",
-      "title": "Work 11 Image 4"
-    },
-    {
-      "id": "img5",
-      "type": "image",
-      "src": "/images/work11-image5.jpg",
-      "title": "Work 11 Image 5"
-    },
-    {
-      "id": "img6",
-      "type": "image",
-      "src": "/images/work11-image6.jpg",
-      "title": "Work 11 Image 6"
-    },
-    {
-      "id": "img7",
-      "type": "image",
-      "src": "/images/work11-image7.jpg",
-      "title": "Work 11 Image 7"
-    },
-    {
-      "id": "img8",
-      "type": "image",
-      "src": "/images/work11-image8.jpg",
-      "title": "Work 11 Image 8"
-    },
-    {
-      "id": "img9",
-      "type": "image",
-      "src": "/images/work11-image9.jpg",
-      "title": "Work 11 Image 9"
-    },
-    {
-      "id": "img10",
-      "type": "image",
-      "src": "/images/work11-image10.jpg",
-      "title": "Work 11 Image 10"
-    },
-    {
-      "id": "vid1",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id11-1.m3u8",
-      "title": "Work 11 Video 1",
-      "tags": [
-        "work11",
-        "video1"
-      ]
-    },
-    {
-      "id": "vid2",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id11-2.m3u8",
-      "title": "Work 11 Video 2",
-      "tags": [
-        "work11",
-        "video2"
-      ]
-    },
-    {
-      "id": "vid3",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id11-3.m3u8",
-      "title": "Work 11 Video 3",
-      "tags": [
-        "work11",
-        "video3"
-      ]
-    },
-    {
-      "id": "vid4",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id11-4.m3u8",
-      "title": "Work 11 Video 4",
-      "tags": [
-        "work11",
-        "video4"
-      ]
-    },
-    {
-      "id": "vid5",
-      "type": "video",
-      "src": "https://stream.mux.com/playback-id11-5.m3u8",
-      "title": "Work 11 Video 5",
-      "tags": [
-        "work11",
         "video5"
       ]
     }

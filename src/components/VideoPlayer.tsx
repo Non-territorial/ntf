@@ -14,6 +14,7 @@ const VideoPlayer = ({ playbackId, title }: VideoPlayerProps) => {
       <MuxPlayer
         playbackId={playbackId}
         accent-color="#171717"
+        loop
         metadata={{
           video_title: title || "Untitled Video",
           viewer_user_id: "user-id",

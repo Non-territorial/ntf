@@ -11,11 +11,13 @@ import MediaIndexNavigator from "@/components/MediaIndexNavigator";
 
 type MediaItem = {
   id: string;
-  type: "image" | "video" | "list";
+  type: "image" | "video" | "list" | "link"; // Add "link" type
   src?: string;
   title?: string;
   tags?: string[];
   titles?: { name: string; view: string }[];
+  text?: string; // For "link" type - the display text
+  url?: string; // For "link" type - the external URL
 };
 
 type Work = {
@@ -154,8 +156,20 @@ const GalleryDetailPage = () => {
                 )}
               </ul>
             </div>
+            ) : currentMedia.type === "link" && currentMedia.text && currentMedia.url ? ( // New "link" case
+              <div className="text-center text-white">
+                <p className="text-lg mb-4">{currentMedia.text}</p>
+                <a
+                  href={currentMedia.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-white text-black py-2 px-4 rounded hover:bg-gray-200 transition-colors"
+                >
+                  Book
+                </a>
+              </div>
           ) : (
-            <p className="text-gray-400">No media available.</p>
+             <p className="text-gray-400">No media available.</p>
           )}
         </div>
 

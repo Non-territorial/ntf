@@ -1,15 +1,12 @@
 [
     { "id": "titles", "title": "TITLES", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/007_rome_shot-rw3IJsLV3hfyymGlC8wdHbGwTEd7op.png",  "disabled": false },
-    { "id": "xl", "title": "XL", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/IMG_2673-kLFBs2ElXJVC421yjyVjKKQj9fB4l5.jpeg",  "disabled": true },
-    { "id": "moving-emptiness", "title": "MOVING EMPTINESS", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/rt1-hpstQRLwjZHrQ5Mti8CjedytIQztnx.webp",  "disabled": true },
+    { "id": "xl", "title": "XL", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/IMG_2673-kLFBs2ElXJVC421yjyVjKKQj9fB4l5.jpeg",  "disabled": false },
+    { "id": "moving-emptiness", "title": "MOVING EMPTINESS", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/rt1-hpstQRLwjZHrQ5Mti8CjedytIQztnx.webp",  "disabled": false },
     { "id": "bai-ueit", "title": "BAI UEIT", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Screenshot%202019-06-02%2023.49.52-Pxix3POtiz0Zx9xRnSkV2eLGrDEpVZ.png",  "disabled": true },
-    { "id": "climate-exchange", "title": "CLIMATE EXCHANGE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/CE-Cypv3Ol4srQrORpd6jPIO3Un8Oeyx0.webp",  "disabled": true },
-    { "id": "estetica-protesica", "title": "ESTETICA PROTESICA", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Screenshot%202024-05-17%20at%2022.55.06-5pJAaBdA04vL94Ew2O91U5IA6zz46E.png",  "disabled": true },
-    { "id": "final-tour-leader", "title": "FINAL TOUR LEADER", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/FINAL%20TOUR%20LEADER-qfpBERooBKxFKTECUNwEg3KtUk7wZb.png",  "disabled": true },
-    { "id": "levels-of-perception", "title": "LEVELS OF PERCEPTION", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/LEVELS%20OF%20PERCEPTION-rFTi2fcGORPZVjBQNmGmLtGdJsrqUF.webp",  "disabled": true },
+    { "id": "climate-exchange", "title": "CLIMATE EXCHANGE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/CE-Cypv3Ol4srQrORpd6jPIO3Un8Oeyx0.webp",  "disabled": false },
+    { "id": "estetica-protesica", "title": "ESTETICA PROTESICA", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Screenshot%202024-05-17%20at%2022.55.06-5pJAaBdA04vL94Ew2O91U5IA6zz46E.png",  "disabled": false },
+    { "id": "levels-of-perception", "title": "LEVELS OF PERCEPTION", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/LEVELS%20OF%20PERCEPTION-rFTi2fcGORPZVjBQNmGmLtGdJsrqUF.webp",  "disabled": false },
     { "id": "techno-zombie", "title": "TECHNO ZOMBIE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/TECHNO%20ZOMBIE%20II-R6KDiaVnQUIOI4GbsVImDrtxIdFkfS.png",  "disabled": true },
-    { "id": "the-conference", "title": "THE CONFERENCE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/IMG_8938%20Large-fnhsi9LtgbDGz3PZVH9f6MJUqSaDE2.png",  "disabled": true },
-    { "id": "undisclosed", "title": "UNDISCLOSED", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/Title%20Image-WsfXXaw4HRoDgBvwVIR1OE2g82cMJE.png",  "disabled": true }
-    
+    { "id": "the-conference", "title": "THE CONFERENCE", "thumbnail": "https://u8fdpn5uky8lbnzf.public.blob.vercel-storage.com/IMG_8938%20Large-fnhsi9LtgbDGz3PZVH9f6MJUqSaDE2.png",  "disabled": true }
   ]
  
