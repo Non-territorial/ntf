@@ -69,3 +69,22 @@ select {
 .custom-scroll::-webkit-scrollbar-thumb:hover {
   background-color: #555;
 }
+
+.maplibregl-canvas-container,
+.maplibregl-canvas,
+.maplibregl-map {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.maplibregl-ctrl-attrib {
+  background: rgba(0, 0, 0, 0.5) !important;
+  color: #ccc !important;
+  font-size: 10px !important;
+}
+
+.maplibregl-map {
+  width: 100% !important;
+  height: 100% !important;
+}
