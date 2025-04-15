@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import { Map as MapTilerMap, MapStyle } from '@maptiler/sdk';
+import { Map as MapTilerMap } from '@maptiler/sdk';
 import '@maptiler/sdk/dist/maptiler-sdk.css';
 
 const MapComponent: React.FC = () => {
