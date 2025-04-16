@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from 'react';
 import { Map as MapTilerMap } from '@maptiler/sdk';
+import { MapOptions } from 'maplibre-gl';
 import '@maptiler/sdk/dist/maptiler-sdk.css';
 
 const MapComponent: React.FC = () => {
@@ -25,8 +26,9 @@ const MapComponent: React.FC = () => {
       zoom: 0.98,
       interactive: true,
       navigationControl: false,
-      attributionControl: false, // Disable default attribution control
-    });
+      attributionControl: false, 
+    } as MapOptions);
+    
 
     console.log('Map initialized:', map.current);
 
