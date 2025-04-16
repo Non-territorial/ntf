@@ -88,3 +88,6 @@ select {
   width: 100% !important;
   height: 100% !important;
 }
+a[href*="maptiler.com"] {
+  display: none !important;
+}
