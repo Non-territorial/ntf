@@ -27,6 +27,7 @@ const MapComponent: React.FC = () => {
       interactive: true,
       navigationControl: false,
       attributionControl: false, 
+      geolocateControl: false,
     } as MapOptions);
     
 
