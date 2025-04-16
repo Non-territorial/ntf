@@ -24,7 +24,8 @@ const MapComponent: React.FC = () => {
       center: [0, 0],
       zoom: 0.98,
       interactive: true,
-      attributionControl: true as any,
+      navigationControl: false,
+      attributionControl: false, // Disable default attribution control
     });
 
     console.log('Map initialized:', map.current);
@@ -32,7 +33,7 @@ const MapComponent: React.FC = () => {
     map.current.on('load', () => {
       console.log('Map loaded');
       const layers = map.current?.getStyle().layers;
-      console.log('Loaded layers:', layers?.map((layer: any) => ({
+      console.log('Loaded layers:', layers?.map((layer: { id: string; type: string; layout?: { visibility?: string }; paint?: object }) => ({
         id: layer.id,
         type: layer.type,
         visibility: layer.layout?.visibility || 'visible',
